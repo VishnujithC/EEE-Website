@@ -73,10 +73,10 @@ const Hero = ({ name, image }) => {
                                 / Library
                             </Link>
                         )}
-                        <Link href="/placements">Library</Link>
                         <Link href="/achievements">Achievements</Link>
                         <Link href="/gallery">Gallery</Link>
                         <Link href="/faculty">Faculty</Link>
+                        <Link href="/association">Association</Link>
                         {/* <Link href="/facilities">/ Facilities</Link> */}
                         {/* {userExist ? (
               <Link href="#" onClick={setLogOut}>
